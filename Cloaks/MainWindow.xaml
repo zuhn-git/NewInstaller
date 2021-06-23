@@ -10,7 +10,7 @@
     <Window.TaskbarItemInfo>
         <TaskbarItemInfo x:Name="taskBarItemInfo1" 
                      ThumbnailClipMargin="80,0,80,140"
-                     Description="your mom xDDD :rofl::rofl:">
+                     Description="Cloaks+ is pretty pog :D">
         </TaskbarItemInfo>
     </Window.TaskbarItemInfo>
     <Window.Resources>
@@ -152,9 +152,9 @@
             <Grid>
                 <Image Source="C.png" Margin="200,10,233,247"/>
                 <Label x:Name="MainTextLabelHome" FontFamily="/Cloaks+;component/#Minecraft" Content="Cloaks+" Foreground="White" Margin="227,102,190,209" FontSize="23"/>
-                <Label x:Name="MadeByMainHome" HorizontalContentAlignment="Center" FontFamily="/Cloaks+;component/#Minecraft" Content="Installer made by seizure and zuhn" Foreground="#bdbdbd" Margin="133.5,133.5,133.5,191" FontSize="14"/>
+                <Label x:Name="MadeByMainHome" HorizontalContentAlignment="Center" FontFamily="/Cloaks+;component/#Minecraft" Content="Installer made by zuhn and seizure" Foreground="#bdbdbd" Margin="133.5,133.5,133.5,191" FontSize="14"/>
                 <Image x:Name="Line3" Source="lin.png" Margin="112,69,115,177" Stretch="UniformToFill"/>
-                <Label x:Name="Changelog2" FontFamily="/Cloaks+;component/#Minecraft" Content="• Added auto update and oOOoOo it looks pretty&#xD;&#xA;hmm might make the home page look epic who knows" Foreground="#bdbdbd" Margin="100,177,47,128" FontSize="15"/>
+                <Label x:Name="Changelog2" FontFamily="/Cloaks+;component/#Minecraft" Content="• Added auto update and it looks pretty awesome :D&#xD;&#xA;hmm might make the home page look epic who knows" Foreground="#bdbdbd" Margin="100,177,47,128" FontSize="15"/>
                 <Label x:Name="Changelog3" FontFamily="/Cloaks+;component/#Minecraft" Content="• Current version is v.1.3" Foreground="#bdbdbd" Margin="172,226,127,85" FontSize="15"/>
             </Grid>
         </Border>
